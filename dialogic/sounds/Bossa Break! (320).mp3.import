@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Bossa Break! (320).mp3-3b52c7b4f9c0368a80d1ab2594f6441e.mp3str"
+
+[deps]
+
+source_file="res://dialogic/sounds/Bossa Break! (320).mp3"
+dest_files=[ "res://.import/Bossa Break! (320).mp3-3b52c7b4f9c0368a80d1ab2594f6441e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

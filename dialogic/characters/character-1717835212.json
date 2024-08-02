@@ -1,0 +1,21 @@
+{
+	"color": "#ffffffff",
+	"description": "Clara Remaja",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1717835212.json",
+	"mirror_portraits": false,
+	"name": "Clara di saat SMK",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://dialogic/characters/20230514-b-etsy-PILLOWFIGHT-TRANS nR.png"
+		}
+	],
+	"scale": 25,
+	"theme": "theme-1717917658.cfg"
+}

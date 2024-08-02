@@ -1,0 +1,21 @@
+{
+	"color": "#ffffffff",
+	"description": "backstory char 1",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1717835199.json",
+	"mirror_portraits": false,
+	"name": "Random Bully",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://dialogic/characters/Kitimaru Buro_Ych_transparant.png"
+		}
+	],
+	"scale": 25,
+	"theme": "theme-1717917550.cfg"
+}

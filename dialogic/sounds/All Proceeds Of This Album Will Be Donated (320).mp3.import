@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/All Proceeds Of This Album Will Be Donated (320).mp3-29562b32633a82b8d1ca081fe477c3b8.mp3str"
+
+[deps]
+
+source_file="res://dialogic/sounds/All Proceeds Of This Album Will Be Donated (320).mp3"
+dest_files=[ "res://.import/All Proceeds Of This Album Will Be Donated (320).mp3-29562b32633a82b8d1ca081fe477c3b8.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/hi.ogg-3896f78018c075e1bd5f7b1075b71f2f.oggstr"
+
+[deps]
+
+source_file="res://dialogic/sounds/hi.ogg"
+dest_files=[ "res://.import/hi.ogg-3896f78018c075e1bd5f7b1075b71f2f.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

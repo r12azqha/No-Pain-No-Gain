@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/【Royalty Free Music _ No Copyright】 Bossanova for Tea Time_cluZU3mKERM.mp3-803458845b1ede9f61977cf8401bf887.mp3str"
+
+[deps]
+
+source_file="res://dialogic/sounds/【Royalty Free Music _ No Copyright】 Bossanova for Tea Time_cluZU3mKERM.mp3"
+dest_files=[ "res://.import/【Royalty Free Music _ No Copyright】 Bossanova for Tea Time_cluZU3mKERM.mp3-803458845b1ede9f61977cf8401bf887.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

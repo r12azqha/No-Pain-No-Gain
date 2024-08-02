@@ -1,0 +1,35 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/WhatsApp Image 2024-06-10 at 13.00.13_b5ce7f09.jpg-0643595b87f48e475e3f3c799f335059.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://dialogic/background/WhatsApp Image 2024-06-10 at 13.00.13_b5ce7f09.jpg"
+dest_files=[ "res://.import/WhatsApp Image 2024-06-10 at 13.00.13_b5ce7f09.jpg-0643595b87f48e475e3f3c799f335059.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+process/normal_map_invert_y=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

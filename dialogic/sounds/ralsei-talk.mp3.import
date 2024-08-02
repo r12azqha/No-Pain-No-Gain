@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/ralsei-talk.mp3-dfe429e5ec512beced3f8365c7078930.mp3str"
+
+[deps]
+
+source_file="res://dialogic/sounds/ralsei-talk.mp3"
+dest_files=[ "res://.import/ralsei-talk.mp3-dfe429e5ec512beced3f8365c7078930.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

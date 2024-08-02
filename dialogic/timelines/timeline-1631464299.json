@@ -1,0 +1,235 @@
+{
+	"events": [
+		{
+			"audio_bus": "Master",
+			"background-music": "play",
+			"event_id": "dialogic_031",
+			"event_name": "BackgroundMusic",
+			"fade_length": 1,
+			"file": "res://dialogic/sounds/Bossa Break! (320).mp3",
+			"volume": -10
+		},
+		{
+			"background": "res://dialogic/background/fitness-computer-desktop-backgrounds-wallpaper-preview.jpg",
+			"event_id": "dialogic_021"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Kamu adalah seorang instruktur gym yang bernama Mas Roy. [pause=1]Tugas Mas Roy adalah membantu dan mendampingi seorang klien cara menurunkan berat badan yang ideal.\nBantulah Mas Roy mendampingi klien dalam perjalanannya!"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 2,
+			"waiting_skippable": false
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Di suatu hari di sebuah gimnasium yang bernama.. [pause=1][br]No Pain No Gain!"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"animation_wait": true,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1717834226.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Senang",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1717834226.json",
+			"event_id": "dialogic_001",
+			"portrait": "Senang",
+			"text": "Selamat datang di No Pain No Gain! [pause=1][br]Nama saya Mas Roy, [pause=1]Ada yang bisa saya bantu?"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1717834220.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": true,
+			"portrait": "Talking",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1717834220.json",
+			"event_id": "dialogic_001",
+			"portrait": "Senang",
+			"text": "Siang Mas!\nAku Kak Clara, [pause=1]Aku sedang mencari instruktur gym nihh..\nDisini tersedia kah..?"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1
+		},
+		{
+			"character": "character-1717834226.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Tentu ada dong!\nIni lohh si ganteng depan kaka inii [pause=1] [wave amp=25 freq=2]*menunjukan ke diri sendiri*[/wave]"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 2
+		},
+		{
+			"character": "character-1717834220.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "..."
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1
+		},
+		{
+			"character": "character-1717834220.json",
+			"event_id": "dialogic_001",
+			"portrait": "Kagum",
+			"text": "DIHH!! Aku kira kamu resepsionis-nya."
+		},
+		{
+			"character": "character-1717834226.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Aduhh, [pause=1][wave amp=50 freq=2]sakit hati sih sayaa..[/wave]"
+		},
+		{
+			"character": "character-1717834226.json",
+			"event_id": "dialogic_001",
+			"portrait": "Kagum",
+			"text": "Jadi.. Kakak kenapa sedang mencari instruktur gym?"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1
+		},
+		{
+			"character": "character-1717834220.json",
+			"event_id": "dialogic_001",
+			"portrait": "Talking",
+			"text": "Aku pengen nurunin berat badan, Mas.."
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": false,
+			"wait_seconds": 1
+		},
+		{
+			"character": "character-1717834220.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Jujur, [pause=1]jadi mahasiswi itu penuh godaan."
+		},
+		{
+			"character": "character-1717834220.json",
+			"event_id": "dialogic_001",
+			"portrait": "Talking",
+			"text": "Banyak banget acara makan-makan, [br][pause=1]Begadang nugas sambil ngemil, [pause=1][br]Belum lagi stress karena tugas dan ujian yang bikin kalap makan.."
+		},
+		{
+			"character": "character-1717834220.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Nggak terasa, berat badan Aku naik drastis..."
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1
+		},
+		{
+			"character": "character-1717834226.json",
+			"event_id": "dialogic_001",
+			"portrait": "Waoh",
+			"text": "Wahh, saya paham kok. [pause=1]Kehidupan mahasiswa memang ribet.\nApalagi kalau sudah dihadapkan dengan tugas dan deadline, [pause=1]beuhh pola makan dan istirahat jadi berantakan..\t"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": false,
+			"wait_seconds": 1
+		},
+		{
+			"character": "character-1717834220.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sebel",
+			"text": "Betul banget Mas..[pause=1] Awalnya aku nggak terlalu peduli..\nTapi lama-lama baju-baju aku banyak yang kekecilan.\nAku jadi nggak percaya diri, apalagi kalau harus presentasi di depan kelas. Rasanya insecure banget, Mas.."
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1
+		},
+		{
+			"character": "character-1717834226.json",
+			"event_id": "dialogic_001",
+			"portrait": "Kagum",
+			"text": "Saya ngerti perasaan kamu, Clara. Tenang aja kok, kamu datang ke tempat yang tepat!"
+		},
+		{
+			"character": "character-1717834226.json",
+			"event_id": "dialogic_001",
+			"portrait": "Senang",
+			"text": "Jadi, kakak ingin bertanya apa tentang olahraga?"
+		},
+		{
+			"change_timeline": "timeline-1717912907.json",
+			"event_id": "dialogic_020"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1631464299.json",
+		"name": "StoryLine"
+	}
+}

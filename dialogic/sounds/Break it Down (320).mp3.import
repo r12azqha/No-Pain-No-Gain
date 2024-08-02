@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Break it Down (320).mp3-937d6382d459b13704fabf08950ea095.mp3str"
+
+[deps]
+
+source_file="res://dialogic/sounds/Break it Down (320).mp3"
+dest_files=[ "res://.import/Break it Down (320).mp3-937d6382d459b13704fabf08950ea095.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

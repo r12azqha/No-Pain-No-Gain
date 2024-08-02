@@ -1,0 +1,37 @@
+{
+	"color": "#ffffffff",
+	"description": "gym inst",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1717834220.json",
+	"mirror_portraits": true,
+	"name": "  Clara  ",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 100,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://dialogic/characters/Klien (Clara)/Neutral.png"
+		},
+		{
+			"name": "Kagum",
+			"path": "res://dialogic/characters/Klien (Clara)/Kagum.png"
+		},
+		{
+			"name": "Sebel",
+			"path": "res://dialogic/characters/Klien (Clara)/Sebel.png"
+		},
+		{
+			"name": "Senang",
+			"path": "res://dialogic/characters/Klien (Clara)/Senang.png"
+		},
+		{
+			"name": "Talking",
+			"path": "res://dialogic/characters/Klien (Clara)/Talking.png"
+		}
+	],
+	"scale": 25,
+	"theme": "theme-1717917363.cfg"
+}

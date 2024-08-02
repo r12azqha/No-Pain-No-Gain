@@ -1,0 +1,47 @@
+{
+	"events": [
+		{
+			"change_timeline": "timeline-1631464299.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "debug menu, choose timeline"
+		},
+		{
+			"choice": "DefaultTimeline",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1631464299.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "Kuis",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1717912907.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.5.1",
+		"file": "timeline-1717913777.json",
+		"name": "DefaultTimeline"
+	}
+}

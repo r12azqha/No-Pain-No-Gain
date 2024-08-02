@@ -1,0 +1,37 @@
+{
+	"color": "#ffffffff",
+	"description": "player",
+	"display_name": "",
+	"display_name_bool": true,
+	"id": "character-1717834226.json",
+	"mirror_portraits": false,
+	"name": "  Mas Roy  ",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 150,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://dialogic/characters/Coach (Mas Roy)/Neutral.png"
+		},
+		{
+			"name": "Eepy",
+			"path": "res://dialogic/characters/Coach (Mas Roy)/Eepy.png"
+		},
+		{
+			"name": "Kagum",
+			"path": "res://dialogic/characters/Coach (Mas Roy)/Kagum.png"
+		},
+		{
+			"name": "Senang",
+			"path": "res://dialogic/characters/Coach (Mas Roy)/Senang.png"
+		},
+		{
+			"name": "Waoh",
+			"path": "res://dialogic/characters/Coach (Mas Roy)/Waoh.png"
+		}
+	],
+	"scale": 25,
+	"theme": "theme-1717917461.cfg"
+}
