@@ -17,12 +17,23 @@
 		},
 		{
 			"character": "character-1717834220.json",
+			"event_id": "dialogic_001",
+			"portrait": "Talking",
+			"text": "Baiklahh, [pause=1]jadi kan aku mau turunin berat badan.. [pause=1]"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1
+		},
+		{
+			"character": "character-1717834220.json",
 			"event_id": "dialogic_010",
 			"options": [
 
 			],
 			"portrait": "Senang",
-			"question": "Baiklahh, jadi kan aku mau turunin berat badan.. [pause=1]\nAda latihan yang cocok tidak buat aku?"
+			"question": "Ada latihan yang cocok tidak buat aku?"
 		},
 		{
 			"choice": "..Suruh Clara untuk lari marathon..?",
@@ -40,7 +51,7 @@
 			"character": "character-1717834226.json",
 			"event_id": "dialogic_001",
 			"portrait": "Default",
-			"text": "Coba kamu.."
+			"text": "Coba kamu.. [pause=1]"
 		},
 		{
 			"event_id": "dialogic_023",
@@ -51,7 +62,7 @@
 			"character": "character-1717834226.json",
 			"event_id": "dialogic_001",
 			"portrait": "Kagum",
-			"text": "Lari maraton dehh keliling kompleks sambil ngejar odading mang oleh..\nDijamin perut langsung rata!"
+			"text": "Lari maraton deh keliling kompleks.. [pause=1]sambil ngejar odading mang oleh..\nDijamin perut langsung rata! [pause=1]"
 		},
 		{
 			"event_id": "dialogic_023",
@@ -73,7 +84,7 @@
 			"character": "character-1717834220.json",
 			"event_id": "dialogic_001",
 			"portrait": "Sebel",
-			"text": "Maksud Mas?"
+			"text": "Maksudnya Mas?"
 		},
 		{
 			"event_id": "dialogic_023",
@@ -89,24 +100,24 @@
 		{
 			"event_id": "dialogic_023",
 			"hide_dialogbox": true,
-			"wait_seconds": 1
+			"wait_seconds": 2
 		},
 		{
 			"character": "character-1717834220.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Bukan mau cossplay jadi Usain Bolt.."
+			"text": "Bukan mau cosplay jadi Usain Bolt.."
 		},
 		{
 			"event_id": "dialogic_023",
 			"hide_dialogbox": true,
-			"wait_seconds": 1
+			"wait_seconds": 2
 		},
 		{
 			"character": "character-1717834220.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Tidak jelas nih mas-nya.. \nSaya ulangi nih pertanyaan saya.."
+			"text": "Tidak jelas nih masnya.. \nAku ulangi nih pertanyaannya.."
 		},
 		{
 			"event_id": "dialogic_023",
@@ -136,10 +147,15 @@
 			"text": "Coba kamu.."
 		},
 		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1
+		},
+		{
 			"character": "character-1717834226.json",
 			"event_id": "dialogic_001",
 			"portrait": "Kagum",
-			"text": "Angkat barbel deh seberat seratus kilo..\nTerus teriak [pause=1] \"AIR PANAS, [pause=1]AIR PANAS!\""
+			"text": "Angkat barbel deh seberat seratus kilo..\nTerus teriak [pause=1]\"AIR PANAS, [pause=1]AIR PANAS!\""
 		},
 		{
 			"event_id": "dialogic_023",
@@ -161,7 +177,7 @@
 			"character": "character-1717834220.json",
 			"event_id": "dialogic_001",
 			"portrait": "Talking",
-			"text": "Mass..\nSaya mau turunin berat badan..."
+			"text": "Mas..\nSaya mau turunin berat badan..."
 		},
 		{
 			"event_id": "dialogic_023",
@@ -171,8 +187,8 @@
 		{
 			"character": "character-1717834220.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Bukan cossplay jadi Mike Tyson.."
+			"portrait": "Sebel",
+			"text": "Bukan cosplay jadi Mike Tyson.."
 		},
 		{
 			"event_id": "dialogic_023",
@@ -182,8 +198,8 @@
 		{
 			"character": "character-1717834220.json",
 			"event_id": "dialogic_001",
-			"portrait": "",
-			"text": "Saya ulangi pertanyaan saya.."
+			"portrait": "Talking",
+			"text": "Aku ulangi pertanyaannya nih.."
 		},
 		{
 			"anchor_id": "anchor-1717924342",
@@ -205,7 +221,7 @@
 			"character": "character-1717834226.json",
 			"event_id": "dialogic_001",
 			"portrait": "Senang",
-			"text": "Nah, kalau gitu kamu harus coba latihan kardio dehh!"
+			"text": "Nah, [pause=1]kalau gitu kamu harus coba [wave amp=25 freq=6]latihan kardio[/wave] deh!"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -230,7 +246,7 @@
 			"character": "character-1717834226.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Jadi, [pause=1]Latihan kardio tuhh ngebakar kalori sambil ngebentuk otot[pause=1] terutama di area perut."
+			"text": "Jadi, [pause=1]latihan kardio tuhh ngebakar kalori sambil ngebentuk otot.. [pause=1]terutama di area perut!"
 		},
 		{
 			"event_id": "dialogic_023",
@@ -241,7 +257,7 @@
 			"character": "character-1717834226.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Contohnya kayak Burpees, [pause=1]Russian twist, [pause=1]sama Kettlebell swing."
+			"text": "Contohnya kayak Burpees, [pause=1]Russian twist, [pause=1]sama Kettlebell swing!"
 		},
 		{
 			"event_id": "dialogic_023",
@@ -252,7 +268,7 @@
 			"character": "character-1717834220.json",
 			"event_id": "dialogic_001",
 			"portrait": "Senang",
-			"text": "Wahh, boleh juga tuh! [pause=1]Nanti aku coba latihan kardio yang kamu Mas sebutin tadi."
+			"text": "Wihh, boleh juga tuh! [pause=1]Nanti aku coba latihan kardio yang Mas sebutin tadi."
 		},
 		{
 			"event_id": "dialogic_023",
@@ -266,6 +282,11 @@
 			"text": "Ohh iya.."
 		},
 		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1
+		},
+		{
 			"event_id": "dialogic_015",
 			"id": "anchor-1717935814",
 			"index": 0,
@@ -275,7 +296,12 @@
 			"character": "character-1717834220.json",
 			"event_id": "dialogic_001",
 			"portrait": "Senang",
-			"text": "Kalau untuk gizii.."
+			"text": "Kalau untuk gizi.."
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1
 		},
 		{
 			"character": "character-1717834220.json",
@@ -302,7 +328,7 @@
 			"character": "character-1717834226.json",
 			"event_id": "dialogic_001",
 			"portrait": "Kagum",
-			"text": "Kakak bisa ambil kaca.."
+			"text": "Kakak boleh ambil kaca.."
 		},
 		{
 			"event_id": "dialogic_023",
@@ -313,7 +339,7 @@
 			"character": "character-1717834226.json",
 			"event_id": "dialogic_001",
 			"portrait": "Kagum",
-			"text": "Pegang sayur bayem.."
+			"text": "Terus pegang sayur bayem.."
 		},
 		{
 			"event_id": "dialogic_023",
@@ -335,7 +361,7 @@
 			"character": "character-1717834226.json",
 			"event_id": "dialogic_001",
 			"portrait": "Kagum",
-			"text": "Dijamin kakak nafsu makannya hilang!"
+			"text": "Dijamin.. [pause=1]kakak nafsu makannya hilang!"
 		},
 		{
 			"event_id": "dialogic_023",
@@ -357,7 +383,7 @@
 			"character": "character-1717834220.json",
 			"event_id": "dialogic_001",
 			"portrait": "Sebel",
-			"text": "Yang bener dong!\nAku ulangi lagi pertanyaannya!"
+			"text": "Ahh yang bener dong!\nAku ulangi lagi pertanyaannya nih!"
 		},
 		{
 			"anchor_id": "anchor-1717935814",
@@ -391,7 +417,7 @@
 			"character": "character-1717834226.json",
 			"event_id": "dialogic_001",
 			"portrait": "Kagum",
-			"text": "Stop makan aja kakk!"
+			"text": "Stop makan aja kak!"
 		},
 		{
 			"event_id": "dialogic_023",
@@ -424,7 +450,7 @@
 			"character": "character-1717834220.json",
 			"event_id": "dialogic_001",
 			"portrait": "",
-			"text": "Yang benerr ahhh!!\nAku ulangi nihh pertanyaan aku.."
+			"text": "Yang benerr ahhh!!\nMas tidak becus.. [pause=1]\nAku ulangi nihh pertanyaan aku.."
 		},
 		{
 			"anchor_id": "anchor-1717935814",
@@ -437,7 +463,7 @@
 			"character": "character-1717834226.json",
 			"event_id": "dialogic_001",
 			"portrait": "Kagum",
-			"text": "Kakak bisa tambahkan protein ke porsi makanan kakak!\nSeperti ikan, [pause=1]telur, [pause=1]tahu, [pause=1]tempe, [pause=1]atau bahkan daging!"
+			"text": "Kakak bisa [wave amp=26 freq=6]tambahkan protein[/wave] ke porsi makanan kakak!\nSeperti ikan, [pause=1]telur, [pause=1]tahu, [pause=1]tempe, [pause=1]atau bahkan daging!"
 		},
 		{
 			"event_id": "dialogic_023",
@@ -454,7 +480,7 @@
 			"character": "character-1717834226.json",
 			"event_id": "dialogic_001",
 			"portrait": "Senang",
-			"text": "Serius kakk, [pause=1]mengkonsumsi banyak protein dan mengurangi karbohidrat bisa berpengaruh terhadap diet kakak lohh!\nSoalnya protein adalah bahan dasar untuk pembentukan otot."
+			"text": "Serius kakk, [pause=1]mengkonsumsi banyak protein dan mengurangi karbohidrat bisa berpengaruh terhadap diet kakak lohh!\nSoalnya protein adalah bahan dasar untuk pembentukan otot!"
 		},
 		{
 			"event_id": "dialogic_023",
@@ -482,7 +508,7 @@
 			"character": "character-1717834226.json",
 			"event_id": "dialogic_001",
 			"portrait": "Kagum",
-			"text": "Dan juga Protein bisa bikin perut lebih kenyang dibandingkan karbohidrat lohh!\nProtein dapat membantu mengontrol nafsu makan [pause=1]dan mendukung program penurunan berat badan!"
+			"text": "Dan juga protein bisa [wave amp=26 freq=6]bikin perut lebih kenyang[/wave] dibandingkan karbohidrat lohh!\nProtein dapat membantu mengontrol nafsu makan dan [wave amp=26 freq=6]mendukung program penurunan berat badan![/wave]"
 		},
 		{
 			"event_id": "dialogic_023",
@@ -493,7 +519,29 @@
 			"character": "character-1717834220.json",
 			"event_id": "dialogic_001",
 			"portrait": "Kagum",
-			"text": "Wihh bolehh tuhh!"
+			"text": "Baiklah mas!"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 2
+		},
+		{
+			"character": "character-1717834220.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Hmm.."
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1
+		},
+		{
+			"character": "character-1717834220.json",
+			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Oh iya mas.."
 		},
 		{
 			"event_id": "dialogic_023",
@@ -508,15 +556,26 @@
 		},
 		{
 			"character": "character-1717834220.json",
+			"event_id": "dialogic_001",
+			"portrait": "Talking",
+			"text": "Sebelum aku latihan.."
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1
+		},
+		{
+			"character": "character-1717834220.json",
 			"event_id": "dialogic_010",
 			"options": [
 
 			],
 			"portrait": "Talking",
-			"question": "Ohh iya, sebelum latihan.. [pause=1]\nSebaiknya aku harus ngapain ya.."
+			"question": "Lebih baik aku ngapain dulu ya mas.."
 		},
 		{
-			"choice": "..suruh clara minum kopi?..",
+			"choice": "..Suruh clara minum kopi?..",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -531,7 +590,7 @@
 			"character": "character-1717834226.json",
 			"event_id": "dialogic_001",
 			"portrait": "Kagum",
-			"text": "Minum kopi aja kak!.."
+			"text": "Ngopi aja kak!"
 		},
 		{
 			"event_id": "dialogic_023",
@@ -567,9 +626,25 @@
 			"text": "Yang serius dong mas.."
 		},
 		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1
+		},
+		{
 			"character": "character-1717834220.json",
 			"event_id": "dialogic_001",
 			"portrait": "Sebel",
+			"text": "Mas mau bikin aku sakit jantungan ya.."
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 2
+		},
+		{
+			"character": "character-1717834220.json",
+			"event_id": "dialogic_001",
+			"portrait": "Talking",
 			"text": "Aku ulangi pertanyaan aku nih.."
 		},
 		{
@@ -582,17 +657,22 @@
 			"event_id": "dialogic_016"
 		},
 		{
-			"choice": "pemanasan terlebih dahulu dong!",
+			"choice": "Pemanasan dulu dong!",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1
+		},
+		{
 			"character": "character-1717834226.json",
 			"event_id": "dialogic_001",
 			"portrait": "Senang",
-			"text": "Pemanasan aja dulu kak.."
+			"text": "[wave amp=26 freq=6]Pemanasan aja dulu kak![/wave]"
 		},
 		{
 			"event_id": "dialogic_013"
@@ -601,7 +681,7 @@
 			"character": "character-1717834226.json",
 			"event_id": "dialogic_001",
 			"portrait": "Senang",
-			"text": "Jogging ringan aja kak, [pause=1]Berlari perlahan-lahan selama beberapa menit buat meningkatkan denyut jantung dan mempersiapkan otot untuk latihan yang lebih intensif!"
+			"text": "Jogging, [pause=1]atau berlari perlahan-lahan selama beberapa menit buat meningkatkan denyut jantung dan mempersiapkan otot untuk latihan yang lebih intensif!"
 		},
 		{
 			"event_id": "dialogic_023",
@@ -649,17 +729,17 @@
 
 			],
 			"portrait": "Sebel",
-			"question": "Sebaiknya [pause=1]berapa lama aku berolahraga setiap harinya untuk menjaga kesehatan?"
+			"question": "Sebaiknya... [pause=1]berapa lama aku berolahraga setiap harinya untuk menjaga kesehatan?"
 		},
 		{
-			"choice": "rekomendasi clara latihan 30 menit sehari!",
+			"choice": "Rekomendasi clara untuk latihan 30 menit sehari!",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
 			"value": ""
 		},
 		{
-			"choice": "..sehari tiga jam..?",
+			"choice": "..12 Jam sehari..?",
 			"condition": "",
 			"definition": "",
 			"event_id": "dialogic_011",
@@ -674,7 +754,7 @@
 			"character": "character-1717834226.json",
 			"event_id": "dialogic_001",
 			"portrait": "Kagum",
-			"text": "Sehari tiga jam bisa tidak kak"
+			"text": "Kakak latihan dua belas jam sehari bisa tidak?"
 		},
 		{
 			"event_id": "dialogic_023",
@@ -695,8 +775,19 @@
 		{
 			"character": "character-1717834220.json",
 			"event_id": "dialogic_001",
+			"portrait": "Default",
+			"text": "Apaan sihh.."
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 2
+		},
+		{
+			"character": "character-1717834220.json",
+			"event_id": "dialogic_001",
 			"portrait": "Sebel",
-			"text": "Kakak tidak becus!"
+			"text": "Masa olahraga setengah hari sih.. "
 		},
 		{
 			"event_id": "dialogic_023",
@@ -707,7 +798,18 @@
 			"character": "character-1717834220.json",
 			"event_id": "dialogic_001",
 			"portrait": "Sebel",
-			"text": "Aku ulangi pertanyaan aku!"
+			"text": "Kakak tidak becus!"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 2
+		},
+		{
+			"character": "character-1717834220.json",
+			"event_id": "dialogic_001",
+			"portrait": "Sebel",
+			"text": "Aku ulangi nih pertanyaan aku!"
 		},
 		{
 			"anchor_id": "anchor-1719342884",
@@ -725,7 +827,7 @@
 			"character": "character-1717834226.json",
 			"event_id": "dialogic_001",
 			"portrait": "Kagum",
-			"text": "Nahh aku rekomendasikan untuk berolahraga setidaknya 150 menit per minggu."
+			"text": "Nahh aku rekomendasi kakak untuk berolahraga setidaknya [wave amp=26 freq=6]150 menit perminggu[/wave]!"
 		},
 		{
 			"event_id": "dialogic_023",
@@ -747,7 +849,7 @@
 			"character": "character-1717834226.json",
 			"event_id": "dialogic_001",
 			"portrait": "Senang",
-			"text": "Kak clara bisa membagikannya menjadi sesi latihan kak [pause=1]\nSehari sekitar 30 menit, [pause=1]lima kali seminggu kak.\nIni termasuk latihan kardiovaskular dan latihan kekuatan"
+			"text": "Kak clara bisa membagikannya menjadi sesi latihan kak! [pause=1]\nSehari minimal sekitar [wave amp=26 freq=6]30 menit[/wave]!, [pause=1]\n5 kali seminggu kak!\nIni termasuk latihan kardiovaskular dan latihan kekuatan!"
 		},
 		{
 			"event_id": "dialogic_023",
@@ -758,7 +860,7 @@
 			"character": "character-1717834220.json",
 			"event_id": "dialogic_001",
 			"portrait": "Talking",
-			"text": "Kalau untuk ini.. [pause=1] ada yang harus aku fokuskan tidak dalam latihan kardiovaskular dan kekuatan?"
+			"text": "Kardiovaskular? [pause=1]Kekuatan? [pause=1]Apa itu mas?"
 		},
 		{
 			"event_id": "dialogic_023",
@@ -769,7 +871,18 @@
 			"character": "character-1717834226.json",
 			"event_id": "dialogic_001",
 			"portrait": "Kagum",
-			"text": "Kalau untuk kardiovaskular, [pause=1]latihan aerobik dengan intensitas sedang hingga tinggi bisa dilakukan selama minimal 30 menit per sesi..\nTiga hingga lima kali seminggu itu sangat baik..."
+			"text": "Kalau untuk kardiovaskular, [pause=1]dia itu latihan aerobik dengan intensitas sedang hingga tinggi yang bisa dilakukan selama minimal 30 menit per sesi kak!\nTiga hingga lima kali seminggu itu sangat baik..."
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 2
+		},
+		{
+			"character": "character-1717834226.json",
+			"event_id": "dialogic_001",
+			"portrait": "Senang",
+			"text": "Sedangkan kalau untuk kekuatan.. [pause=1]\nLatihan kekuatan seperti angkat beban.. [pause=1]atau latihan dengan berat badan tubuh dapat dilakukan dua hingga tiga kali seminggu kakk.."
 		},
 		{
 			"event_id": "dialogic_023",
@@ -777,10 +890,22 @@
 			"wait_seconds": 1
 		},
 		{
-			"character": "character-1717834226.json",
+			"character": "character-1717834220.json",
 			"event_id": "dialogic_001",
-			"portrait": "Senang",
-			"text": "Sedangkan kalau untuk kekuatan..\nLatihan kekuatan seperti angkat beban atau latihan dengan berat badan tubuh dapat dilakukan dua hingga tiga kali seminggu kakk.."
+			"portrait": "Kagum",
+			"text": "Wihh baiklah mass!"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 2,
+			"waiting_skippable": false
+		},
+		{
+			"character": "character-1717834220.json",
+			"event_id": "dialogic_001",
+			"portrait": "Talking",
+			"text": "Itu aja dulu deh mas!"
 		},
 		{
 			"event_id": "dialogic_023",
@@ -791,7 +916,7 @@
 			"character": "character-1717834220.json",
 			"event_id": "dialogic_001",
 			"portrait": "Senang",
-			"text": "Wihh baiklah mass!\nTerima kasih banyak atas rekomendasinya Mas Roy!"
+			"text": "Terima kasih banyak ya Mas Roy atas rekomendasinya!!"
 		},
 		{
 			"event_id": "dialogic_023",
@@ -802,7 +927,7 @@
 			"character": "character-1717834226.json",
 			"event_id": "dialogic_001",
 			"portrait": "Kagum",
-			"text": "Tidak masalah Clara! Yang penting  konsistensi[pause=1] dan memilih latihan yang sesuai dengan tujuan dan kebutuhan tubuh kakak!"
+			"text": "Tidak masalah Clara! Yang penting [wave amp=26 freq=6]konsistensi[/wave][pause=1] dan memilih latihan yang sesuai dengan tujuan dan kebutuhan tubuh kakak!"
 		},
 		{
 			"event_id": "dialogic_023",
@@ -835,7 +960,7 @@
 			"character": "character-1717834226.json",
 			"event_id": "dialogic_001",
 			"portrait": "Senang",
-			"text": "Semangat ya Clara! [pause=1]konsistensi adalah kunci keberhasilan.\nSemoga Kakak mencapai hasil yang diinginkan.\nSampai jumpa di sesi latihan berikutnya!"
+			"text": "Semangat ya Clara! [pause=1][wave amp=26 freq=6]konsistensi adalah kunci keberhasilan![/wave]\nSemoga Kakak mencapai hasil yang diinginkan.\nSampai jumpa di sesi latihan berikutnya!"
 		},
 		{
 			"event_id": "dialogic_023",
@@ -847,6 +972,31 @@
 			"event_id": "dialogic_001",
 			"portrait": "Kagum",
 			"text": "Sampai jumpa, Mas Roy!"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 1
+		},
+		{
+			"animation": "6-fade_out_down_big.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "[All]",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
 		},
 		{
 			"background": "",

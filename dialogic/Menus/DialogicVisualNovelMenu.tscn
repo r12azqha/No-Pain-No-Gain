@@ -478,16 +478,19 @@ margin_top = 214.0
 margin_right = 656.0
 margin_bottom = 291.0
 custom_fonts/font = SubResource( 18 )
-text = "No Pain No Gain VN
-adalah gim Visual Novel yang dibuat oleh:
+text = "No Pain No Gain VN.
+Adalah gim Visual Novel yang dibuat oleh:
 
-Razqha (programmer, story editor)
-Ariqsyah (director story)
-Firdaus (grafis dan asset)
+Raja Razqha Sutan Rabani (Pemrogram, Cerita Editor)
+Muhammad Ariqsyah  (Cerita Direktor)
+Firdaus Rizky Pratama (Artis Aset)
 
-dengan atas nama organisasi Kotak Kreatif yang dibuatkan khusus untuk submisi perlombaan Gemastik 2024.
+Dengan atas nama organisasi Kotak Kreatif yang dibuatkan khusus untuk submisi perlombaan Gemastik 2024.
 
-6/9/2024"
+Bossanova for Tea Time - 雷文 Reimond Ch. (Menu music)
+Bossa Nova - CapitalNerd2617 (Gameplay music)
+
+27 Juni, 2024."
 autowrap = true
 
 [node name="Buttons" type="VBoxContainer" parent="Menus/MenuContainer/SubMenus"]
